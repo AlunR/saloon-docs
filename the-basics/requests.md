@@ -67,7 +67,7 @@ class GetServersRequest extends Request
 
 {% tab title="Usage" %}
 ```php
-$request = new GetServerRequest(id: 12345);
+$request = new GetServersRequest(id: 12345);
 ```
 {% endtab %}
 {% endtabs %}
